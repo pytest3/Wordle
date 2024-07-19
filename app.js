@@ -142,6 +142,7 @@ function enableTiles(rowEle) {
     i.disabled = false;
   });
 }
+
 // TODO: disable slider
 function init() {
   focusFirstTile();
